@@ -1,0 +1,16 @@
+[
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "*://*/js/(epd_sw|all)*",
+            "if-domain": [
+                "*elpais.com.uy",
+                "*ovaciondigital.com.uy",
+                "*elobservador.com.uy",
+                "*tvshow.com.uy"
+            ],
+        }
+    },
+]
