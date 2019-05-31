@@ -42,7 +42,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3B43FBDD22A0969A0075883D /* Block Diarios UY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Block Diarios UY.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B43FBDD22A0969A0075883D /* BlockDiariosUY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlockDiariosUY.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B43FBE022A0969A0075883D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3B43FBE222A0969A0075883D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3B43FBE522A0969A0075883D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 		3B43FBD422A0969A0075883D = {
 			isa = PBXGroup;
 			children = (
-				3B43FBDF22A0969A0075883D /* Block Diarios UY */,
+				3B43FBDF22A0969A0075883D /* BlockDiariosUY */,
 				3B43FBF722A096D00075883D /* Blocker */,
 				3B43FBDE22A0969A0075883D /* Products */,
 			);
@@ -85,13 +85,13 @@
 		3B43FBDE22A0969A0075883D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3B43FBDD22A0969A0075883D /* Block Diarios UY.app */,
+				3B43FBDD22A0969A0075883D /* BlockDiariosUY.app */,
 				3B43FBF622A096D00075883D /* Blocker.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3B43FBDF22A0969A0075883D /* Block Diarios UY */ = {
+		3B43FBDF22A0969A0075883D /* BlockDiariosUY */ = {
 			isa = PBXGroup;
 			children = (
 				3B43FBE022A0969A0075883D /* AppDelegate.swift */,
@@ -101,7 +101,7 @@
 				3B43FBE922A0969C0075883D /* LaunchScreen.storyboard */,
 				3B43FBEC22A0969C0075883D /* Info.plist */,
 			);
-			path = "Block Diarios UY";
+			path = BlockDiariosUY;
 			sourceTree = "<group>";
 		};
 		3B43FBF722A096D00075883D /* Blocker */ = {
@@ -117,9 +117,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3B43FBDC22A0969A0075883D /* Block Diarios UY */ = {
+		3B43FBDC22A0969A0075883D /* BlockDiariosUY */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3B43FBEF22A0969C0075883D /* Build configuration list for PBXNativeTarget "Block Diarios UY" */;
+			buildConfigurationList = 3B43FBEF22A0969C0075883D /* Build configuration list for PBXNativeTarget "BlockDiariosUY" */;
 			buildPhases = (
 				3B43FBD922A0969A0075883D /* Sources */,
 				3B43FBDA22A0969A0075883D /* Frameworks */,
@@ -131,9 +131,9 @@
 			dependencies = (
 				3B43FBFE22A096D00075883D /* PBXTargetDependency */,
 			);
-			name = "Block Diarios UY";
+			name = BlockDiariosUY;
 			productName = "Block Diarios UY";
-			productReference = 3B43FBDD22A0969A0075883D /* Block Diarios UY.app */;
+			productReference = 3B43FBDD22A0969A0075883D /* BlockDiariosUY.app */;
 			productType = "com.apple.product-type.application";
 		};
 		3B43FBF522A096D00075883D /* Blocker */ = {
@@ -171,7 +171,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3B43FBD822A0969A0075883D /* Build configuration list for PBXProject "Block Diarios UY" */;
+			buildConfigurationList = 3B43FBD822A0969A0075883D /* Build configuration list for PBXProject "BlockDiariosUY" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -184,7 +184,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3B43FBDC22A0969A0075883D /* Block Diarios UY */,
+				3B43FBDC22A0969A0075883D /* BlockDiariosUY */,
 				3B43FBF522A096D00075883D /* Blocker */,
 			);
 		};
@@ -382,7 +382,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D9955Z8Y99;
-				INFOPLIST_FILE = "Block Diarios UY/Info.plist";
+				INFOPLIST_FILE = BlockDiariosUY/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -401,7 +401,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D9955Z8Y99;
-				INFOPLIST_FILE = "Block Diarios UY/Info.plist";
+				INFOPLIST_FILE = BlockDiariosUY/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -456,7 +456,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3B43FBD822A0969A0075883D /* Build configuration list for PBXProject "Block Diarios UY" */ = {
+		3B43FBD822A0969A0075883D /* Build configuration list for PBXProject "BlockDiariosUY" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3B43FBED22A0969C0075883D /* Debug */,
@@ -465,7 +465,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3B43FBEF22A0969C0075883D /* Build configuration list for PBXNativeTarget "Block Diarios UY" */ = {
+		3B43FBEF22A0969C0075883D /* Build configuration list for PBXNativeTarget "BlockDiariosUY" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3B43FBF022A0969C0075883D /* Debug */,

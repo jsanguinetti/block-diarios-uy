@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Block Diarios UY
+//  BlockDiariosUY
 //
 //  Created by Javier Sanguinetti on 5/30/19.
 //  Copyright © 2019 Javier Sanguinetti. All rights reserved.
